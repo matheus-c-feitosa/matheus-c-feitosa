@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Matheus Fontinele C Feitosa</h1>
 
-<!--
-**matheus-c-feitosa/matheus-c-feitosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Engineer · Backend & Full Stack · Fortaleza, Brazil<br/>
+  <sub>Python · FastAPI · React · Docker · PostgreSQL</sub>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/matheus-fontinele-c-feitosa">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=flat-square" height="22" alt="linkedin" />
+  </a>&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Software Engineer at **Rastro System**, building a logistics & asset tracking SaaS — migrating legacy systems to microservices with FastAPI/Docker and building interfaces with React.
+
+Previously completed a selective **480h Full Stack Residency** (MCTI Futuro / Instituto Atlântico / UECE).
+
+**3× National Honorable Mention** at the **Brazilian Olympiad in Informatics (OBI)**, including the Senior Programming level — Top 15% among 5,000+ contestants.
+
+---
+
+### Tech stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react,tailwind" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,linux" height="36" />
+</div>
+
+---
+
+### Certifications
+
+☁️ AWS Academy Cloud Foundations · 📊 Google Data Analytics Professional · 💻 Full Stack Residency 480h (UECE)
+
+---
+
+### GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus-c-feitosa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-c-feitosa&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="150" />
+</div>

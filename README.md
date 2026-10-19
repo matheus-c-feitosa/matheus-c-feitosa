@@ -1,4 +1,4 @@
-<h1 align="center">Matheus Fontinele C Feitosa</h1>
+<h1 align="center">Matheus C. Feitosa</h1>
 
 <p align="center">
   Software Engineer · Backend & Full Stack · Fortaleza, Brazil<br/>

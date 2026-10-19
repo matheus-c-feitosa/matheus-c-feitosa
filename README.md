@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/matheus-fontinele-c-feitosa">
+  <a href="https://linkedin.com/in/matheus-c-feitosa">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=flat-square" height="22" alt="linkedin" />
   </a>&nbsp;
 </p>

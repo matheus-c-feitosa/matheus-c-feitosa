@@ -9,6 +9,8 @@
   <a href="https://linkedin.com/in/matheus-c-feitosa">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=flat-square" height="22" alt="linkedin" />
   </a>&nbsp;
+  <a href="https://x.com/mattcfeitosa"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=flat-square" height="22" alt="X" /></a>&nbsp;
+  <a href="https://huggingface.co/matheus-c-feitosa"><img src="https://img.shields.io/static/v1?message=Hugging%20Face&logo=huggingface&label=&color=FFD21E&logoColor=black&style=flat-square" height="22" alt="Hugging Face" /></a>
 </p>
 
 ---
